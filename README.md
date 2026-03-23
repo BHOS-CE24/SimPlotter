@@ -27,9 +27,9 @@ Run `./plotter` and follow the menu.
 
 | Choice | What it does |
 |--------|-------------|
-| 1 → Regular | Plot `f(x)` — e.g. `sin(x)/x^2 red` |
-| 1 → Parametric | Plot `x(t), y(t)` — e.g. `cos(x) sin(x) cyan` |
-| 2 | Evaluate an expression — e.g. `2^10 + pi` |
+| 1 → Regular | Plot `f(x)` example: `sin(x)/x^2 red` |
+| 1 → Parametric | Plot `x(t), y(t)` example: `cos(x) sin(x) cyan` |
+| 2 | Evaluate an expression example: `2^10 + pi` |
 | 3 | List expression history |
 | 4 | Exit |
 
