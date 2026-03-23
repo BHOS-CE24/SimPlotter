@@ -6,7 +6,6 @@
 #include <iostream>
 #include <algorithm>
 #include <cstdint>
-#include <cstdlib>
 #include <ctime>
 
 #define E 2.71828182845904523536
