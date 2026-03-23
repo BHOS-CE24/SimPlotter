@@ -909,7 +909,7 @@ void openMenu(Camera& cam) {
 int main() {
 	SDL_Init(SDL_INIT_VIDEO);
 	Camera cam;
-	std::srand(time(nullptr));
+
 	openMenu(cam);
 	printf("Bye...\n");
 
