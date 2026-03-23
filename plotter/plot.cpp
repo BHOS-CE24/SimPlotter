@@ -890,6 +890,7 @@ void openMenu(Camera& cam) {
 					          << reset
 					          << "\n" ;
 					tmp.pop();
+					k++;
 				}
 				std::cout << "\n" ;
 			}
